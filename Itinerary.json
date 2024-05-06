@@ -1,0 +1,10 @@
+{
+    "Itinerary":
+    [
+    {"CityName":"Tokyo","CityDesc":"Yoking past and future, Tokyo dazzles with its traditional culture and passion for everything new, from contrasting architecture to a dynamic arts scene to phenomenal dining throughout.","TravelImage":"https://raw.githubusercontent.com/sakupeach/JSONProjectIT315/main/tokyo.jpg","Attraction":"Sensouji Temple","Food":"Ramen","Nature":"Mount Fuji","TravelSite":"https://www.lonelyplanet.com/japan/tokyo"},
+   {"CityName":"Paris","CityDesc":"Paris' monument-lined boulevards, museums, classical bistros and boutiques are enhanced by a new wave of multimedia galleries, creative wine bars, design shops and tech start-ups.","TravelImage":"https://raw.githubusercontent.com/sakupeach/JSONProjectIT315/main/paris.jpg","Attraction":"Eiffle Tower","Food":"Tarte Tartin","Nature":"La Maison Rose","TravelSite":"https://www.lonelyplanet.com/france/paris"},
+   {"CityName":"New York","CityDesc":"Epicenter of the arts. Architectural darling. Dining and shopping capital. Trendsetter. New York City wears many crowns, and spreads an irresistible feast for all.","TravelImage":"https://raw.githubusercontent.com/sakupeach/JSONProjectIT315/main/newyork.jpg","Attraction":"Empire State Building","Food":"NYC Pizza","Nature":"Central Park","TravelSite":"https://www.lonelyplanet.com/usa/new-york-city"},
+   {"CityName":"Cancun","CityDesc":"Cancun is a tale of two cities, with the Zona Hotelera offering majestic Caribbean beaches and Maya culture and Cancan Centro providing the local flavor.","TravelImage":"https://raw.githubusercontent.com/sakupeach/JSONProjectIT315/main/cancun.jpg","Attraction":"Plaza de Toros","Food":"Elote","Nature":"Isla Blanca","TravelSite":"https://www.lonelyplanet.com/mexico/cancun"}
+    ],
+    "Status":"OK"
+  }
